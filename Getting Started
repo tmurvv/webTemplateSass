@@ -1,17 +1,17 @@
 This template contains:
 
-Sass folders and directories
-favicon
-grid class css file
-package json with build tools and dev tools
-tests to check connections with js, css, and image files (just run index file)
+--Sass folders and directories suggested archtecture
+--A few media queries
+--grid class css files
+--package json with build tools and dev tools
+--tests to check connections with js, css, and image files (just run index file)
+--favicon
 
-
---------------------------------------------
+-----
 set up node
 go to command prompt and type npm install to install from existing json file
 
------
+---------------------------------------------------------------------------
 to install manually if no existing json file:
 
 "node -v" to be sure node installed. lists node version
