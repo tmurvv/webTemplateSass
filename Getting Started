@@ -19,6 +19,9 @@ ctrl ~ for terminal enter these commands
 git remote add origin $url goes here$ (looks like git@github.com:tmurvv/take2techsitesass.git)
 git push -u origin master
 
+If you keep getting prompted for credentials try:
+git config --global credential.helper wincred
+
 ---------------
 To set up node
 go to command prompt ctrl ~ and type npm install to install from existing json file
